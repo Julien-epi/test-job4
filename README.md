@@ -1,6 +1,9 @@
 # test-job4
 Back-end : NestJs, TypeORM
+
 Front-end : ReactJs, Tailwinds
+
+Database: postgreSQL
 
 Démarrage Back-end : 
 
