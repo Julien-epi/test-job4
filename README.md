@@ -1,5 +1,6 @@
 # test-job4
-Back-end : NestJs &amp; TypeORM
+Back-end : NestJs, TypeORM
+Front-end : ReactJs, Tailwinds
 
 Démarrage Back-end : 
 
